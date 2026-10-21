@@ -1,0 +1,6 @@
+{
+  "name": "Lydia & Hannah Collective",
+  "description": "Modern casual fashion, handcrafted bags, and accessories in Nigeria. Effortless style with instant WhatsApp ordering and nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
